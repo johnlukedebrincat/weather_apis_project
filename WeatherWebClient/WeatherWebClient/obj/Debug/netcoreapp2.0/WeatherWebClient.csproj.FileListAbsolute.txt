@@ -1,0 +1,11 @@
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.csprojAssemblyReference.cache
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.csproj.CoreCompileInputs.cache
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.AssemblyInfoInputs.cache
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.AssemblyInfo.cs
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\bin\Debug\netcoreapp2.0\WeatherWebClient.deps.json
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\bin\Debug\netcoreapp2.0\WeatherWebClient.runtimeconfig.json
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\bin\Debug\netcoreapp2.0\WeatherWebClient.runtimeconfig.dev.json
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\bin\Debug\netcoreapp2.0\WeatherWebClient.dll
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\bin\Debug\netcoreapp2.0\WeatherWebClient.pdb
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.dll
+C:\Users\John Luke\Desktop\My Files\MCAST\Second Year\Semester 2\Distributed Programming\WeatherWebClient\WeatherWebClient\obj\Debug\netcoreapp2.0\WeatherWebClient.pdb
